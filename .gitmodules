@@ -1,4 +1,4 @@
-[submodule "extensions/blueberryai-submodule"]
-	path = extensions/blueberryai-submodule
-	url = https://github.com/tryblueberry/blueberryai-submodule.git
+[submodule "extensions/lycheeai-submodule"]
+	path = extensions/lycheeai-submodule
+	url = https://github.com/trylycheeai/lycheeai-submodule.git
 	branch = main

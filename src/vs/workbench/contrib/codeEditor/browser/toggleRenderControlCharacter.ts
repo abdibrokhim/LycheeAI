@@ -25,7 +25,7 @@ export class ToggleRenderControlCharacterAction extends Action2 {
 			f1: true,
 			toggled: ContextKeyExpr.equals('config.editor.renderControlCharacters', true),
 			menu: {
-				id: MenuId.MenubarApblueberryanceMenu,
+				id: MenuId.MenubarlycheeaianceMenu,
 				group: '4_editor',
 				order: 5
 			}

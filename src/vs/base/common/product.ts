@@ -147,8 +147,8 @@ export interface IProductConfiguration {
 	readonly licenseUrl?: string;
 	readonly serverLicenseUrl?: string;
 	readonly privacyStatementUrl?: string;
-	readonly blueberryAIHomepageURL?: string;
-	readonly blueberryAILinks?: {
+	readonly lycheeaiHomepageURL?: string;
+	readonly lycheeaiLinks?: {
 		homepage: string;
 		dashboard: string;
 		faq: string;
@@ -200,7 +200,7 @@ export interface IProductConfiguration {
 	readonly gitHubEntitlement?: IGitHubEntitlement;
 	readonly chatWelcomeView?: IChatWelcomeView;
 	readonly chatParticipantRegistry?: string;
-	readonly blueberryAIVersion?: string;
+	readonly lycheeaiVersion?: string;
 }
 
 export interface ITunnelApplicationConfig {

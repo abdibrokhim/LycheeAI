@@ -26,7 +26,7 @@ module.exports.all = [
 	'!out*/**',
 	'!test/**/out/**',
 	'!**/node_modules/**',
-	'!**/extensions/blueberryai-extension/**'
+	'!**/extensions/lycheeai-extension/**'
 ];
 
 module.exports.unicodeFilter = [

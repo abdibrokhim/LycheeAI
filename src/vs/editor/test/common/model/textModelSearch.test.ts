@@ -371,7 +371,7 @@ suite('TextModelSearch', () => {
 		);
 	});
 
-	test('issue #27594: Search results disapblueberry', () => {
+	test('issue #27594: Search results dislycheeai', () => {
 		assertFindMatches(
 			[
 				'this.server.listen(0);',

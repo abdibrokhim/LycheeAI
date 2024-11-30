@@ -1,40 +1,40 @@
-# lycheeai: The Open Source AI-Powered Code Editor
+# LycheeAI: The Open Source AI Code Editor
 
-Supercharge your development with an editor designed for less coding, using AI. lycheeai is forked from VSCode and Continue and PearAI, and aims to reduce the time from ideation to conception for your product development by achieving the most seamless integration with AI.
+Supercharge your development with an editor designed for less coding, using AI. LycheeAI is forked from VSCode and Continue and PearAI and BlueberryAI and WatermelonAI, and aims to reduce the time from ideation to conception for your product development by achieving the most seamless integration with AI.
 
-To download the full app, visit our homepage at https://trywatermelon.ai.
+To download the full app, visit our homepage at [LycheeAI](https://www.theopencommunity.co/).
 
 ## Features
-* **Knows your code** - watermelon has context on your codebase so you can ask questions directly (code is stored locally on your computer).
-* **UI/UX focused** - watermelon puts the user experience first, making developing as seamless as possible.
-* **Familiar feel** - watermelon is a fork of VSCode, so you can pick up exactly where you left off.
+* **Knows your code** - LycheeAI has context on your codebase so you can ask questions directly (code is stored locally on your computer).
+* **UI/UX focused** - LycheeAI puts the user experience first, making developing as seamless as possible.
+* **Familiar feel** - LycheeAI is a fork of VSCode, so you can pick up exactly where you left off.
 
-See all features [here](https://trywatermelon.ai/docs).
+See all features [here](https://www.theopencommunity.co/).
 
 ## Master Doc
 
-Our [Master Document](https://docs.google.com/document/d/14jusGNbGRPT8X6GgEDbP1iab5q4X7_y-eFXK7Ky57IQ/edit) contains all links relevant to lycheeai.
+Our [Master Document](https://docs.google.com/document/d/14jusGNbGRPT8X6GgEDbP1iab5q4X7_y-eFXK7Ky57IQ/edit) contains all links relevant to LycheeAI.
 
 ## Contributing
 
-We welcome contributions from the community! Whether you're fixing a bug, improving the documentation, or adding a new feature, we appreciate your help in making lycheeai better. There is a lot of context involved and we understand it can be overwhelming when first trying to join the project. Here is a quick summary of key information and how we currently work together:
-- Pan and Nang conduct "Quests", which are 1-3 weeks sprints. We will pick out the current highest priority issues for these quests, ping everyone in our [Discord]([url](https://discord.gg/7QMraJUsQt)), and ask for applications to participate in them. The chosen people will help finish the tasks alongside us, participating in calls and working together. If help is needed, we may add more people to the quest. You can see the current open quests [here](https://github.com/orgs/trywatermelon/projects?query=is%3Aopen).
+We welcome contributions from the community! Whether you're fixing a bug, improving the documentation, or adding a new feature, we appreciate your help in making LycheeAI better. There is a lot of context involved and we understand it can be overwhelming when first trying to join the project. Here is a quick summary of key information and how we currently work together:
+- Pan and Nang conduct "Quests", which are 1-3 weeks sprints. We will pick out the current highest priority issues for these quests, ping everyone in our [Discord]([url](https://discord.com/invite/nVtmDUN2sR)), and ask for applications to participate in them. The chosen people will help finish the tasks alongside us, participating in calls and working together. If help is needed, we may add more people to the quest. You can see the current open quests [here](https://github.com/orgs/trywatermelon/projects?query=is%3Aopen).
 - Outside of dedicated Quests, we also have a bunch of issues ([good first ones](https://github.com/trywatermelon/lycheeai-app/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)) which are free to tackle. Make sure to leave a comment indicating you're working on it (check for existing comments also). You can raise a PR anytime and we usually review them pretty quickly.
 - We have a lot on our plate so it's easy for us to miss something. The best way to get our attention is to ping us directly in our Discord server.
 
-**Please review our coding [Contributing Guide](CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [lycheeai Discord](https://discord.gg/7QMraJUsQt)!
+**Please review our coding [Contributing Guide](CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [LycheeAI Discord](https://discord.com/invite/nVtmDUN2sR)!
 
 Curious about our stack?
-- lycheeai is in TypeScript/Electron.js
-- lycheeai landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn)
-- lycheeai backend is a Python Flask server with Supabase database
+- LycheeAI is in TypeScript/Electron.js
+- LycheeAI landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn)
+- LycheeAI backend is a Python Flask server with Supabase database
 - Logging/Telemetry is done with Axiom
 
 ## License
-watermelon OSS is licensed under the Apache 2.0 license. See the LICENSE file for details.
+LycheeAI OSS is licensed under the Apache 2.0 license. See the LICENSE file for details.
 
 ## Contact
-For any questions or issues, please open an issue or reach out in the lycheeai [Discord](https://discord.gg/7QMraJUsQt).
+For any questions or issues, please open an issue or reach out in the LycheeAI [Discord](https://discord.com/invite/nVtmDUN2sR).
 
 ## Acknowledgements
 
